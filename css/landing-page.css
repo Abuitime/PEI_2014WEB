@@ -13,6 +13,8 @@ body, h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
 }
 
+.icon-wrap { font-size: 46px; line-height: 46px; margin-bottom: -10px; }
+
 .intro-header {
 	padding-top: 50px; 
 	padding-bottom: 50px;
@@ -938,4 +940,12 @@ width: 170px;
 margin-bottom: 10px;
 margin-top: 0;
 }
+
+#sponsors .list-inline li { width: 19%; padding-left: 0; padding-right: 0; }
+#sponsors .list-inline { margin-bottom:30px;}
+#sponsors img{ width: 100%;}
+#sponsors .container { z-index: 1; position: relative; }
+#sponsors .sub-title { font-size: 20px; }
+#sponsors h3 { font-size: 62px; } 
+#sponsors .center {text-align:center;}
 
